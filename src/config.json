@@ -1,0 +1,10 @@
+{
+  "logoGame": "https://caravan.discord-plays.xyz/images/logo.png",
+  "status": {
+    "presence": "playing",
+    "activity": "{{total-games}} {{label-games}} being solved {{sad-emoji}}",
+    "reloading": "reloading previous Rubiks cubes"
+  },
+  "github": "https://github.com/discord-plays/caravan",
+  "ownerId": "222344019458392065"
+}
